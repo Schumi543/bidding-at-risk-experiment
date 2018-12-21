@@ -1,6 +1,7 @@
 this source copy from https://www.dropbox.com/sh/mhc9os8c5anf0tw/AABuXdGesR_DGi3CbgN32qhGa?dl=0
-paper https://dl.acm.org/citation.cfm?id=3018701
-supplementary materials https://www.dropbox.com/s/qpv82dtrvdhk4zb/supplementary.pdf?dl=0
+
+- paper: https://dl.acm.org/citation.cfm?id=3018701
+- supplementary materials: https://www.dropbox.com/s/qpv82dtrvdhk4zb/supplementary.pdf?dl=0
 
 The oridinal README.txt is as follows.
 
